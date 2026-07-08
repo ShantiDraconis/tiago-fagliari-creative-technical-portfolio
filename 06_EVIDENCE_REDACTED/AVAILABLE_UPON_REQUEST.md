@@ -1,7 +1,18 @@
 # Available Upon Request
 
-Selected redacted evidence can be shared privately with verified recruiters and hiring teams.
+Recruiters and legitimate hiring teams may request redacted or appropriate private evidence for role verification.
 
-Requests can be sent to: fagliarit@gmail.com
+## Not Published Publicly
 
-Public repository policy remains: no medical, personal, legal, conflict-related, or confidential company information is published.
+- Passport information
+- Medical documents
+- Full contracts
+- Full Seaman's Book pages
+- Unredacted certificates
+- Internal company documents
+- Sensitive appraisals
+- Personal disputes, legal materials, or conflict-related documents
+
+## Contact
+
+Email: fagliarit@gmail.com

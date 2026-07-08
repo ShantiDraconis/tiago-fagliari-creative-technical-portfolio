@@ -2,11 +2,21 @@
 
 ## Scope
 
-Broadcast-aware visual system support across LED, media playback, routing, and show-control-adjacent operations.
+Support for media playback, LED content, video systems, broadcast-aware visual workflows, and integrated entertainment environments.
 
-## Competency Areas
+## Systems Exposure
 
-- Media playback workflow alignment
-- LED and visual continuity standards
-- AV signal routing awareness
-- Cross-department sync for live delivery
+- QLab
+- Q-SYS
+- Hippotizer
+- Blackmagic
+- Dante
+- Pandora's Box
+- LED walls and media playback workflows
+
+## Capabilities
+
+- Signal routing awareness.
+- Playback readiness and troubleshooting.
+- Coordination with lighting, audio, stage, and performance teams.
+- Broadcast-aware visual consistency and timing.

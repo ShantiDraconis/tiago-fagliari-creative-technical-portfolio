@@ -1,12 +1,23 @@
-# Case Study 07 — Festivals & Live Events
+# Festivals & Live Events
 
-## Role Context
+## Scope
 
-Multidisciplinary technical crew support across festivals and public live experiences.
+Live event foundation across festivals, cultural gatherings, nightlife, music events, and large-format public experiences.
 
-## Highlights
+## Selected Environments
 
-- Stage and backstage logistics
-- Lighting and AV support in dynamic environments
-- Safety and communication in high-pressure schedules
-- Audience-facing continuity and event rhythm
+- Sonido Tropico
+- SP na Rua
+- Festival Nomade, Chile
+- Pulsar
+- Voodoohop
+- Mamba Negra
+- Casa Circo Gamarra
+- 10th Bienal da UNE
+
+## Contributions
+
+- Lighting, sound, AV, and stage logistics.
+- Backstage flow and artist requirements.
+- Technical crew support and audience-facing atmosphere.
+- Safety-aware execution under live event pressure.

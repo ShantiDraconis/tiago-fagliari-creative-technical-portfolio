@@ -1,27 +1,35 @@
-# CV — Production / Technical Coordinator
+# CV - Production / Technical Coordinator
 
 ## Tiago Fagliari
 
-**Production / Technical Coordinator | Creative-Technical Operations**
+**Production / Technical Coordinator | Creative Technical Director | Senior Lighting Technician**
 
-Portfolio / Creative Technical Archive:  
-github.com/ShantiDraconis/tiago-fagliari-creative-technical-portfolio
+Email: fagliarit@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tiago-fagliari-shanti-draconis-471925147/
 
 ## Summary
 
-Production and technical coordination profile connecting planning, technical execution, rehearsal structure, interdisciplinary communication, and delivery reliability across cruise entertainment, live events, and hospitality-facing environments.
+Production and technical coordination profile connecting cruise entertainment, assistant production, lighting systems, show control, scheduling, inventory, technical rehearsals, guest artist support, hospitality flow, and multicultural operational environments.
 
-## Core Competencies
+## Coordination Strengths
 
-- Production coordination and technical planning
-- Rehearsal preparation and show handover
-- Cross-team communication and guest-facing alignment
-- Documentation, logistics, and operational continuity
-- Safety-aware backstage and venue operations
+- Planning, documentation, inventory, rider awareness, and logistics support.
+- Technical rehearsal preparation, show notes, resets, and performance continuity.
+- Communication between production managers, performers, technicians, guest entertainers, and venue teams.
+- Budget-conscious delivery and practical adaptation to shipboard and live event constraints.
+- Safety-aware backstage, stage, scenic, lighting, and media operations.
 
-## Relevant Routes
+## Relevant Experience
+
+- Assistant Production / Senior Lighting Technician - Nicko Cruises / Vasco da Gama.
+- Light Technician - PEEL Entertainment / Ambassador Cruise Line, Ambience.
+- Entertainment Technician - Saga Cruises.
+- Hospitality, guest service, and destination operations across Argentina, Chile, and Brazil.
+- Theatre, festival, and live event technical crew roles.
+
+## Navigation
 
 - [Nicko Cruises / Vasco da Gama](../03_PORTFOLIO_CASE_STUDIES/02_NICKO_VASCO_DA_GAMA.md)
-- [Festivals & Live Events](../03_PORTFOLIO_CASE_STUDIES/07_FESTIVALS_LIVE_EVENTS.md)
-- [Hospitality & Destination Experience](../03_PORTFOLIO_CASE_STUDIES/08_HOSPITALITY_DESTINATION_EXPERIENCE.md)
 - [Safety & Operations](../04_TECHNICAL_SYSTEMS/SAFETY_OPERATIONS.md)
+- [Hospitality & Destination Experience](../03_PORTFOLIO_CASE_STUDIES/08_HOSPITALITY_DESTINATION_EXPERIENCE.md)
+- [CV Routes](README.md)

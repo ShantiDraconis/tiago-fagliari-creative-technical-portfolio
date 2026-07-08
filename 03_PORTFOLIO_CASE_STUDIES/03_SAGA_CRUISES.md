@@ -1,12 +1,20 @@
-# Case Study 03 — Saga Cruises
+# Saga Cruises
 
-## Role Context
+## Role
 
-Entertainment Technician supporting sound, lighting, stage, and integrated playback systems in cruise entertainment operations.
+**Entertainment Technician - Sound, Lighting & Stage**  
+Dates: [Exact contract dates]
 
-## Highlights
+## Summary
 
-- Execution across GrandMA, ETC, QLab, DiGiCo, Q-SYS, and media workflows
-- Guest artist and production team coordination
-- Show reset reliability and backstage continuity
-- Live troubleshooting and documentation support
+Supported shipboard entertainment through lighting, sound, stage, media playback, guest artist support, technical rehearsals, troubleshooting, and live execution.
+
+## Systems
+
+GrandMA . ETC . DiGiCo SD21 / SD8 . QLab . Q-SYS . Hippotizer . Blackmagic . Dante . Pandora's Box
+
+## Contributions
+
+- Translated creative requirements into lighting states, cue structures, and live show workflows.
+- Supported setup, sound checks, cue verification, live execution, resets, and documentation.
+- Coordinated with performers, guest entertainers, cruise directors, and technical teams.

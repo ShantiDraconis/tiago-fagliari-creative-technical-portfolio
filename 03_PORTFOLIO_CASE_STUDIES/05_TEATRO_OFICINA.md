@@ -1,12 +1,20 @@
-# Case Study 05 — Teat(r)o Oficina
+# Teat(r)o Oficina
 
-## Role Context
+## Role
 
-Freelance lighting and stage/scenic technical support for theatrical productions and special events.
+**Freelance Light Technician / Stage & Scenic Technical Support**  
+Jul 2015 - Present
 
-## Highlights
+## Summary
 
-- Theatre lighting and console operation
-- Stage transitions and scenic integration
-- Visual storytelling through light and space
-- Rehearsal discipline and live continuity
+Supported theatrical productions, rehearsals, live performances, special events, and scenic environments through lighting setup, DMX operation, console programming, stage preparation, backstage coordination, scenic support, and live show continuity.
+
+## Selected Productions
+
+- Pau-Brasil
+- Misterios Gozosos
+- Cacilda 4
+
+## Core Contribution
+
+Theatre lighting, stage operations, scenic support, props, special effects, backstage transitions, visual storytelling, and integration of light, architecture, body, audience, and dramaturgy.

@@ -1,12 +1,23 @@
-# Case Study 02 — Nicko Cruises / Vasco da Gama
+# Nicko Cruises / Vasco da Gama
 
-## Role Context
+## Role
 
-Assistant Production and Senior Lighting responsibilities supporting live show continuity, technical rehearsal quality, and performance system reliability.
+**Assistant Production / Senior Lighting Technician**  
+Jean Ann Ryan Productions / Nicko Cruises - Vasco da Gama  
+Nov 2024 - Feb 2025
 
-## Highlights
+## Summary
 
-- Production support across planning and show delivery
-- Timecoded and structured cue adaptation
-- Artist-specific technical customization
-- Cross-team execution with operational discipline
+Supported assistant production, senior lighting, show control, LED content, technical rehearsals, and live show continuity aboard Vasco da Gama.
+
+## Focus Areas
+
+- Production planning, logistics, inventory, documentation, and rider support.
+- Cue structures, timecoded show files, LED content, and technical consistency.
+- Customized show files and lighting looks for guest artists and in-house productions.
+- Creative/technical meeting support, feasibility assessment, and executable production solutions.
+
+## Navigation
+
+- [Production / Technical Coordinator CV](../01_CV/CV_PRODUCTION_TECHNICAL_COORDINATOR.md)
+- [GrandMA / Show Control / Timecode](../04_TECHNICAL_SYSTEMS/GRANDMA_SHOW_CONTROL_TIMECODE.md)

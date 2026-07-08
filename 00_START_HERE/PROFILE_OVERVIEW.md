@@ -9,22 +9,12 @@ His professional trajectory connects:
 - Theatre and festival lighting foundations.
 - Hospitality and destination experience operations.
 - Cruise entertainment systems and shipboard technical production.
-- Senior Light Tech responsibilities documented in Seaman’s Book.
+- Senior Light Tech responsibilities documented in Seaman's Book.
 - Creative identity through Shanti Draconis, focused on concept architecture, lighting narrative, and spatial storytelling.
 
 ## Core Direction
 
-I work at the intersection of:
-
-- Creative vision
-- Lighting systems
-- Show control
-- Stage operations
-- Media playback
-- Cruise production
-- Hospitality flow
-- Spatial storytelling
-- Audience experience
+I work at the intersection of creative vision, lighting systems, show control, stage operations, media playback, cruise production, hospitality flow, spatial storytelling, and audience experience.
 
 ## Target Roles
 
@@ -37,3 +27,9 @@ I work at the intersection of:
 - Live Event Technical Coordinator
 - Immersive Experience Designer
 - Ceremony / Cultural Event Production Support
+
+## Navigation
+
+- [Links](LINKS.md)
+- [Recruiter Navigation](RECRUITER_NAVIGATION.md)
+- [Main README](../README.md)

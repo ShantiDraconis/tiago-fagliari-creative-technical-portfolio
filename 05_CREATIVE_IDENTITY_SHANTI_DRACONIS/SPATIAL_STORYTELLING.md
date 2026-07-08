@@ -1,5 +1,11 @@
 # Spatial Storytelling
 
-Spatial storytelling combines architecture, audience psychology, and technical media systems to guide perception and memory.
+Spatial storytelling connects architecture, hospitality, light, sound, performance, movement, and audience flow.
 
-The intent is to create environments that are coherent, immersive, and operationally sustainable.
+## Focus
+
+- Guest journey and arrival sequence.
+- Venue identity and atmosphere.
+- Relationship between body, stage, audience, and environment.
+- Immersive experience logic.
+- Scalable creative systems for live delivery.

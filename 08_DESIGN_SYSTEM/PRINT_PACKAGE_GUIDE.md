@@ -1,8 +1,17 @@
 # Print Package Guide
 
-When exporting PDF versions of CVs and summaries:
+## Purpose
 
-- Keep versions role-specific
-- Use concise, international language
-- Keep evidence references redacted/public-safe
-- Add contact links and portfolio URL on first page
+Future print packages should provide a concise, curated recruiter-facing view of the portfolio.
+
+## Recommended Package
+
+- One-page profile overview.
+- Role-specific CV.
+- Selected case studies.
+- Evidence index with redaction policy.
+- Links to portfolio, showreel, LinkedIn, and creative channel.
+
+## Public Safety
+
+Do not include unredacted certificates, contracts, passport information, medical documents, full Seaman's Book pages, appraisals, internal company materials, or confidential show documentation.

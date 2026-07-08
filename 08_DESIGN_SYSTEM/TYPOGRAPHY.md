@@ -1,9 +1,17 @@
 # Typography
 
-Use clean, legible sans-serif typography for all public-facing assets.
+## Direction
 
-Guidelines:
-- Clear heading hierarchy
-- Consistent spacing and line length
-- No decorative fonts in technical documents
-- Prioritize readability on mobile and desktop
+Use a clean, international, recruiter-facing typographic system.
+
+## Suggested Pairing
+
+- Headings: a modern sans-serif with strong structure.
+- Body: a highly readable sans-serif or serif depending on the output format.
+- Technical labels: a restrained monospace for system names, file labels, or cue-related metadata.
+
+## Rules
+
+- Keep hierarchy clear.
+- Avoid overly decorative type.
+- Maintain strong readability in PDF and mobile contexts.

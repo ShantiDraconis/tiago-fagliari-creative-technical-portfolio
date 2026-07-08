@@ -1,5 +1,15 @@
 # Lighting Narrative
 
-Lighting is used as narrative infrastructure, not only illumination.
+Lighting narrative treats light as a storytelling system rather than only an illumination layer.
 
-The approach focuses on rhythm, emotional pacing, spatial articulation, and story transitions, translating creative goals into cueable technical language.
+## Focus
+
+- Visual rhythm
+- Emotional atmosphere
+- Time, transition, and reveal
+- Cue structure and live timing
+- Relationship between performer, architecture, audience, and space
+
+## Technical Connection
+
+The practice is informed by GrandMA workflows, theatre lighting, cruise entertainment, festival environments, and technical rehearsal discipline.

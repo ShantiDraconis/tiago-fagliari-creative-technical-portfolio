@@ -1,4 +1,4 @@
-# Evidence Index — Redacted / Available Upon Request
+# Evidence Index - Redacted / Available Upon Request
 
 This public repository does not include sensitive documents.
 
@@ -6,7 +6,7 @@ The following evidence may be provided privately, redacted where required, upon 
 
 ## Maritime & Shipboard
 
-- Seaman’s Book showing Senior Light Tech / Senior Lighting Technician documentation
+- Seaman's Book showing Senior Light Tech / Senior Lighting Technician documentation
 - STCW certification
 - Ship Security Familiarization
 - ENG1 / international medical certificate, if requested and appropriate

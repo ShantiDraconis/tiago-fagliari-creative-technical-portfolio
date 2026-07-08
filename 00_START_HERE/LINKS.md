@@ -3,8 +3,8 @@
 ## Contact
 
 **Email:** fagliarit@gmail.com  
-**Location:** São Paulo · Milan · At Sea  
-**Instagram / Creative Identity:** @shanti.draconis  
+**Location:** Sao Paulo . Milan . At Sea  
+**Instagram / Creative Identity:** @shanti.draconis
 
 ## Professional
 
@@ -24,3 +24,9 @@ https://www.linkedin.com/in/tiago-fagliari-shanti-draconis-471925147/
 
 **Public Creative Technical Portfolio:**  
 https://github.com/ShantiDraconis/tiago-fagliari-creative-technical-portfolio
+
+## Navigation
+
+- [Profile Overview](PROFILE_OVERVIEW.md)
+- [Recruiter Navigation](RECRUITER_NAVIGATION.md)
+- [Main README](../README.md)

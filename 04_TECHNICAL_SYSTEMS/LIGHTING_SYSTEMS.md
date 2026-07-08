@@ -2,11 +2,12 @@
 
 ## Scope
 
-Design-support and operation of entertainment lighting systems for theatre, cruise, live events, and immersive contexts.
+Lighting system support across cruise entertainment, theatre, festivals, live events, and immersive environments.
 
-## Competency Areas
+## Capabilities
 
-- Fixture setup and maintenance
-- Patch awareness and signal path checks
-- Lighting state consistency across performances
-- Collaboration with stage, audio, and production teams
+- Console operation and cue playback.
+- Fixture checks, maintenance, troubleshooting, and replacement support.
+- DMX/signal flow awareness, cabling, addressing, patch awareness, and venue readiness.
+- Lighting narrative, atmosphere, and audience-facing visual continuity.
+- Technical rehearsals, show notes, and performance resets.

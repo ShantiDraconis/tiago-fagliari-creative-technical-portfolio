@@ -1,29 +1,41 @@
-# CV — Senior Lighting Technician
+# CV - Senior Lighting Technician
 
 ## Tiago Fagliari
 
-**Senior Lighting Technician | Cruise Entertainment | Show Control**  
-**Senior Light Tech documented in Seaman’s Book**
+**Senior Lighting Technician | Creative Technical Director**  
+Cruise Entertainment . GrandMA . Show Control . Timecode . Live Production  
+**Senior Light Tech documented in Seaman's Book**
 
-Portfolio / Creative Technical Archive:  
-github.com/ShantiDraconis/tiago-fagliari-creative-technical-portfolio
+Email: fagliarit@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tiago-fagliari-shanti-draconis-471925147/  
+Instagram: @shanti.draconis
 
 ## Summary
 
-Senior lighting profile focused on cruise entertainment, theatrical workflows, GrandMA operation, timecode-aligned execution, technical rehearsals, cue playback, fixture maintenance, and show continuity in live environments.
+Senior Lighting Technician with shipboard and live event experience across cruise entertainment, theatre, festivals, guest artists, cabaret production, technical rehearsals, lighting maintenance, show control, and live show continuity.
 
-## Core Competencies
+## Relevant Experience
 
-- GrandMA workflows and cue execution
-- Lighting maintenance and troubleshooting
-- Show control and timecode-aware operation
-- Rehearsals, resets, and backstage continuity
-- Guest artist support and technical adaptation
-- Safety and operational readiness
+- RWS Global / Marella Cruises - Senior Light Tech / Senior Lighting Technician.
+- Jean Ann Ryan Productions / Nicko Cruises - Assistant Production / Senior Lighting Technician aboard Vasco da Gama.
+- Saga Cruises - Entertainment Technician supporting sound, lighting, stage, media, and guest artist workflows.
+- Teat(r)o Oficina - Freelance lighting, stage, scenic, and backstage technical support.
+- Festival and live event technical crew across music, cultural, nightlife, and public environments.
 
-## Relevant Routes
+## Technical Focus
 
-- [RWS Global / Marella Case Study](../03_PORTFOLIO_CASE_STUDIES/04_RWS_MARELLA.md)
-- [Saga Cruises Case Study](../03_PORTFOLIO_CASE_STUDIES/03_SAGA_CRUISES.md)
-- [Nicko Cruises / Vasco da Gama](../03_PORTFOLIO_CASE_STUDIES/02_NICKO_VASCO_DA_GAMA.md)
+- GrandMA workflows and show file readiness.
+- Cue playback, timecode awareness, and show control coordination.
+- Fixture checks, maintenance, troubleshooting, cabling, signal flow, and venue readiness.
+- Guest artist support, rehearsals, technical notes, resets, and performance continuity.
+- Safe backstage practices and shipboard operational discipline.
+
+## Evidence
+
+Senior Light Tech documentation is available privately through Seaman's Book evidence. The actual Seaman's Book and related sensitive documents are not published in this public repository.
+
+## Navigation
+
 - [GrandMA / Show Control / Timecode](../04_TECHNICAL_SYSTEMS/GRANDMA_SHOW_CONTROL_TIMECODE.md)
+- [Evidence Index](../06_EVIDENCE_REDACTED/EVIDENCE_INDEX.md)
+- [CV Routes](README.md)

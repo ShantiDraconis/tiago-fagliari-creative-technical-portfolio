@@ -1,6 +1,6 @@
 # Media Kit
 
-Public communication assets for recruiter outreach, profile consistency, and external visibility.
+This section provides short public-facing profile material for recruiter, collaborator, and application use.
 
 - [Short Bio](SHORT_BIO.md)
 - [Long Bio](LONG_BIO.md)

@@ -1,8 +1,17 @@
-# Shanti Draconis — Creative Identity
+# Shanti Draconis
 
-**Shanti Draconis** is the creative identity of Tiago Fagliari.
+**Shanti Draconis** is the creative identity of **Tiago Fagliari**, focused on concept architecture, lighting narrative, spatial storytelling, and creative-technical systems for ceremonies, immersive experiences, cruise entertainment, destination events, and large-scale live productions.
 
-This section presents the creative layer that informs concept architecture, lighting narrative, and spatial storytelling for ceremonies, immersive experiences, destination events, and large-scale productions.
+## Practice Areas
+
+- Concept architecture
+- Lighting narrative
+- Spatial storytelling
+- Creative-technical systems
+- Ceremony and immersive experience thinking
+- Destination and hospitality environments
+
+## Navigation
 
 - [Concept Architecture](CONCEPT_ARCHITECTURE.md)
 - [Lighting Narrative](LIGHTING_NARRATIVE.md)

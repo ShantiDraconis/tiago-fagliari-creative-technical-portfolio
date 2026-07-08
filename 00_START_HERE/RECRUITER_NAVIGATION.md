@@ -7,9 +7,9 @@ Start with:
 1. [Profile Overview](PROFILE_OVERVIEW.md)
 2. [Creative Technical Director CV](../01_CV/CV_CREATIVE_TECHNICAL_DIRECTOR.md)
 3. [Balich Milan / HQ route](../02_BALICH_APPLICATION/MILAN_HQ.md)
-4. [Eclétic’s Concept Architecture](../03_PORTFOLIO_CASE_STUDIES/06_ECLETICS_CONCEPT_ARCHITECTURE.md)
+4. [Ecletic's Concept Architecture](../03_PORTFOLIO_CASE_STUDIES/06_ECLETICS_CONCEPT_ARCHITECTURE.md)
 5. [Shanti Draconis Creative Practice](../05_CREATIVE_IDENTITY_SHANTI_DRACONIS/CREATIVE_PRACTICE_STATEMENT.md)
-6. [Links](LINKS.md)
+6. [Portfolio / Showreel links](LINKS.md)
 
 ## For Senior Lighting / Cruise Entertainment Roles
 
@@ -28,7 +28,7 @@ Start with:
 
 1. [Production / Technical Coordinator CV](../01_CV/CV_PRODUCTION_TECHNICAL_COORDINATOR.md)
 2. [Nicko Cruises / Assistant Production](../03_PORTFOLIO_CASE_STUDIES/02_NICKO_VASCO_DA_GAMA.md)
-3. [RWS Global / Marella Cruises](../03_PORTFOLIO_CASE_STUDIES/04_RWS_MARELLA.md)
+3. [PEEL / Ambassador Cruise Line](../01_CV/CV_PRODUCTION_TECHNICAL_COORDINATOR.md)
 4. [Festival & Live Event Experience](../03_PORTFOLIO_CASE_STUDIES/07_FESTIVALS_LIVE_EVENTS.md)
 5. [Safety & Operations](../04_TECHNICAL_SYSTEMS/SAFETY_OPERATIONS.md)
 6. [Hospitality & Destination Experience](../03_PORTFOLIO_CASE_STUDIES/08_HOSPITALITY_DESTINATION_EXPERIENCE.md)

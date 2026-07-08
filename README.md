@@ -1,10 +1,10 @@
-# Tiago Fagliari — Creative Technical Portfolio
+# Tiago Fagliari - Creative Technical Portfolio
 
 **Creative Technical Director | Senior Lighting Technician**  
-Cruise Entertainment · Show Control · GrandMA · Timecode · Live Events · Immersive Experiences  
+Cruise Entertainment . Show Control . GrandMA . Timecode . Live Events . Immersive Experiences
 
 **Creative Identity:** Shanti Draconis  
-**Location:** São Paulo · Milan · At Sea  
+**Location:** Sao Paulo . Milan . At Sea  
 **Email:** fagliarit@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/tiago-fagliari-shanti-draconis-471925147/  
 **Instagram:** @shanti.draconis  
@@ -20,7 +20,7 @@ I connect **creative vision, technical systems, and live production execution** 
 
 My profile combines architecture, senior lighting technology, cruise ship entertainment operations, show control, theatrical experience, live event production, guest-facing hospitality, and creative-technical direction.
 
-**Senior Light Tech documented in Seaman’s Book.**
+**Senior Light Tech documented in Seaman's Book.**
 
 ---
 
@@ -65,7 +65,7 @@ My profile combines architecture, senior lighting technology, cruise ship entert
 - [Saga Cruises](03_PORTFOLIO_CASE_STUDIES/03_SAGA_CRUISES.md)
 - [RWS Global / Marella Cruises](03_PORTFOLIO_CASE_STUDIES/04_RWS_MARELLA.md)
 - [Teat(r)o Oficina](03_PORTFOLIO_CASE_STUDIES/05_TEATRO_OFICINA.md)
-- [Eclétic’s Concept Architecture](03_PORTFOLIO_CASE_STUDIES/06_ECLETICS_CONCEPT_ARCHITECTURE.md)
+- [Ecletic's Concept Architecture](03_PORTFOLIO_CASE_STUDIES/06_ECLETICS_CONCEPT_ARCHITECTURE.md)
 - [Festivals & Live Events](03_PORTFOLIO_CASE_STUDIES/07_FESTIVALS_LIVE_EVENTS.md)
 - [Hospitality & Destination Experience](03_PORTFOLIO_CASE_STUDIES/08_HOSPITALITY_DESTINATION_EXPERIENCE.md)
 
@@ -81,6 +81,7 @@ My profile combines architecture, senior lighting technology, cruise ship entert
 - [Concept Architecture](05_CREATIVE_IDENTITY_SHANTI_DRACONIS/CONCEPT_ARCHITECTURE.md)
 - [Lighting Narrative](05_CREATIVE_IDENTITY_SHANTI_DRACONIS/LIGHTING_NARRATIVE.md)
 - [Spatial Storytelling](05_CREATIVE_IDENTITY_SHANTI_DRACONIS/SPATIAL_STORYTELLING.md)
+- [Creative Practice Statement](05_CREATIVE_IDENTITY_SHANTI_DRACONIS/CREATIVE_PRACTICE_STATEMENT.md)
 
 ### Evidence
 - [Evidence Index](06_EVIDENCE_REDACTED/EVIDENCE_INDEX.md)
@@ -92,7 +93,7 @@ My profile combines architecture, senior lighting technology, cruise ship entert
 
 This repository is public and therefore includes only curated, non-sensitive, recruiter-facing material.
 
-Private or sensitive documents such as full contracts, certificates, Seaman’s Book pages, appraisals, medical documents, passport data, internal company materials, and unredacted evidence are **not published here**.
+Private or sensitive documents such as full contracts, certificates, Seaman's Book pages, appraisals, medical documents, passport data, internal company materials, and unredacted evidence are **not published here**.
 
 Redacted proof and references are available upon request.
 

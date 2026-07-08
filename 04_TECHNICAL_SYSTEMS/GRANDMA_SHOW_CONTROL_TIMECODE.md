@@ -2,11 +2,16 @@
 
 ## Scope
 
-Operational use of GrandMA-centered workflows for rehearsed and live productions requiring cue precision, playback continuity, and technical reliability.
+Experience supporting GrandMA-based lighting workflows, show control awareness, cue playback, timecode-aware structures, technical rehearsals, show file readiness, and live execution.
 
-## Competency Areas
+## Capabilities
 
-- Cue structure and playback discipline
-- Timecode-aware coordination
-- Show-file readiness and adaptation
-- Troubleshooting under live pressure
+- Cue playback and show continuity.
+- Fixture checks, patch awareness, and signal distribution.
+- Guest artist setup and customized looks.
+- Rehearsal notes, resets, updates, and troubleshooting.
+- Coordination across lighting, sound, media, stage, and performers.
+
+## Public Policy
+
+Proprietary show files, internal cue sheets, and confidential production materials are not published.

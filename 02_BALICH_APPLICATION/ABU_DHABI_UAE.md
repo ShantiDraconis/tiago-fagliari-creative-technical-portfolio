@@ -1,11 +1,18 @@
-# Balich Route — Abu Dhabi / UAE
+# Balich Abu Dhabi / UAE Route
 
-## Positioning Focus
+## Positioning
 
-Technical entertainment systems with immersive workflows, media integration, and broadcast-aware delivery standards.
+This route emphasizes technical entertainment, immersive systems, media / LED workflows, broadcast-aware production, and cruise entertainment discipline.
 
-## Priority Links
+## Relevant Profile
+
+- Lighting, media, audio, and show control system exposure.
+- GrandMA, QLab, Q-SYS, Hippotizer, Blackmagic, Dante, and Pandora's Box awareness.
+- Shipboard production continuity and guest artist support.
+- LED content and visual systems support.
+
+## Recommended Reading
 
 - [Technical Entertainment & Broadcast CV](../01_CV/CV_TECHNICAL_ENTERTAINMENT_BROADCAST.md)
 - [Media / LED / Broadcast](../04_TECHNICAL_SYSTEMS/MEDIA_LED_BROADCAST.md)
-- [GrandMA / Show Control / Timecode](../04_TECHNICAL_SYSTEMS/GRANDMA_SHOW_CONTROL_TIMECODE.md)
+- [Cruise Entertainment Systems](../03_PORTFOLIO_CASE_STUDIES/01_CRUISE_ENTERTAINMENT_SYSTEMS.md)
