@@ -1,0 +1,30 @@
+# Sensitive documents
+99_PRIVATE_NOT_FOR_PUBLIC/
+private/
+secrets/
+contracts/
+medical/
+passport/
+seamans_book_full/
+certificates_unredacted/
+appraisals_unredacted/
+
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Large raw media
+*.mov
+*.mp4
+*.wav
+*.aif
+*.aiff
+*.psd
+*.ai
+
+# Keep public PDFs/images only if intentionally added
