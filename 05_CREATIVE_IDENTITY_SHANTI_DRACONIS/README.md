@@ -1,8 +1,5 @@
 # Shanti Draconis
 
-<<<<<<< HEAD
-This section should frame the creative identity as a disciplined immersive practice, not an uncurated archive.
-=======
 **Shanti Draconis** is the creative identity of **Tiago Fagliari**, focused on concept architecture, lighting narrative, spatial storytelling, and creative-technical systems for ceremonies, immersive experiences, cruise entertainment, destination events, and large-scale live productions.
 
 ## Practice Areas
@@ -20,4 +17,3 @@ This section should frame the creative identity as a disciplined immersive pract
 - [Lighting Narrative](LIGHTING_NARRATIVE.md)
 - [Spatial Storytelling](SPATIAL_STORYTELLING.md)
 - [Creative Practice Statement](CREATIVE_PRACTICE_STATEMENT.md)
->>>>>>> refs/remotes/origin/main
